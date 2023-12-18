@@ -1,7 +1,6 @@
 # Serial Checker
 free serial checker made by your highness himself
 
-
 # Features
 > Check:
 ```python
@@ -19,7 +18,6 @@ check="""
 - DISKDRIVE
 - ***And more***
 """
-print(check)
 ```
 
 
